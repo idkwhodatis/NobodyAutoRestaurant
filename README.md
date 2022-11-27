@@ -1,7 +1,7 @@
-# NobodyAutoRestaurant
-Script to automatically run restaurant in game Nobody  
+# NobodyAutoRestaurant/大多数自动经营餐厅
+This script would automatically click customers waiting for waiters
 
-English/中文
+English/[中文](https://github.com/idkwhodatis/NobodyAutoRestaurant/wiki)
 
 ## Notice
 - This script only supports single resolution for now, resolution here stands for monitor resolution instead of game resolution
