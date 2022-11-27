@@ -9,7 +9,7 @@ English/[中文](https://github.com/idkwhodatis/NobodyAutoRestaurant/wiki)
 - If you are using monitors with different resolutions, please replace target.png with a png format screenshot similar to the stock one
 
 ## Usage
-- Download the newest release here
+- Download the newest release [here](https://github.com/idkwhodatis/NobodyAutoRestaurant/releases/tag/1.0)
 - Unzip
 - execute NobodyAutoRestaurant.exe
 
