@@ -1,5 +1,5 @@
 # NobodyAutoRestaurant/大多数自动经营餐厅
-This script would automatically click customers waiting for waiters
+This script would automatically click on customers waiting for waiters
 
 English/[中文](https://github.com/idkwhodatis/NobodyAutoRestaurant/wiki)
 
