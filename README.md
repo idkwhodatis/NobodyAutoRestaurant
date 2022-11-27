@@ -12,3 +12,7 @@ English/[中文](https://github.com/idkwhodatis/NobodyAutoRestaurant/wiki)
 - Download newest release
 - Unzip
 - execute NobodyAutoRestaurant.exe
+
+## What might be updated when I feel like doing it
+- Multi resolution support
+- GUI
