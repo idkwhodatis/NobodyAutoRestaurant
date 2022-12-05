@@ -19,3 +19,4 @@ English/[中文](https://github.com/idkwhodatis/NobodyAutoRestaurant/blob/main/R
 
 ## Demo
 ![](https://i.niupic.com/images/2022/12/05/abIU.gif)
+if this gif cannot be played properly click [here](https://i.niupic.com/images/2022/12/05/abIU.gif)
