@@ -19,4 +19,4 @@ English/[中文](https://github.com/idkwhodatis/NobodyAutoRestaurant/blob/main/R
 
 ## Demo
 ![](https://i.ibb.co/1LMNYzs/We-Chat-20221205093007-Adobe-Express.gif)  
-if this gif cannot be played properly click [here](https://i.ibb.co/1LMNYzs/We-Chat-20221205093007-Adobe-Express.gif)
+if this gif cannot be loaded properly click [here](https://i.ibb.co/1LMNYzs/We-Chat-20221205093007-Adobe-Express.gif)
