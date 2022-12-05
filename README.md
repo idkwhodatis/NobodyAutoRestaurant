@@ -16,3 +16,6 @@ English/[中文](https://github.com/idkwhodatis/NobodyAutoRestaurant/blob/main/R
 ## What might be updated when I feel like doing it
 - Multi resolution support
 - GUI
+
+## Demo
+![](https://i.niupic.com/images/2022/12/05/abIS.gif)
