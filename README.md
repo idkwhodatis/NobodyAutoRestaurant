@@ -18,4 +18,4 @@ English/[中文](https://github.com/idkwhodatis/NobodyAutoRestaurant/blob/main/R
 - GUI
 
 ## Demo
-![](https://i.niupic.com/images/2022/12/05/abIS.gif)
+![](https://i.niupic.com/images/2022/12/05/abIU.gif)
