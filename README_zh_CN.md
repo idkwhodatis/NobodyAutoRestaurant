@@ -17,6 +17,6 @@
 - 多分辨率支持
 - 图形界面
 
-##效果展示
+## 效果展示
 ![](https://i.ibb.co/1LMNYzs/We-Chat-20221205093007-Adobe-Express.gif)  
 如果gif图片不能正常加载点击[这里](https://i.ibb.co/1LMNYzs/We-Chat-20221205093007-Adobe-Express.gif)
